@@ -83,9 +83,3 @@ results = model.evaluate(test_data, test_labels)
 print(results)
 
 # This way the model was able to achieve 87% accuracy
-
-
-
-
-
-
