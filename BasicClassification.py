@@ -8,6 +8,10 @@ from tensorflow import keras
 import numpy as np
 import matplotlib.pyplot as plt
 
+# This is a classification algorithm,
+# which when given a picture of a piece of 
+# clothing, classifies it as a t-shirt, trousers, etc.
+
 # Download the fashion mnist dataset
 fashion_mnist = keras.datasets.fashion_mnist
 
