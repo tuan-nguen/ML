@@ -63,10 +63,3 @@ model.compile(optimizer='adam',
 
 # Train the model
 model.fit(train_images, train_labels, epochs=5)
-
-
-
-
-
-
-
